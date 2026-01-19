@@ -4262,7 +4262,7 @@ p{font-size:1rem;line-height:1.5rem}}
   --main-text-color-dark: #2b2d34;
   /* current */
    --font-main: 'PingARLT';
-            --color-primary: #0da5be;
+            /* --color-primary: #0da5be; */
             --bg-primary: #fff;
             --bg-secondary: #f8f8f8;
             --bg-light: #fff;
@@ -4290,7 +4290,7 @@ p{font-size:1rem;line-height:1.5rem}}
   --black-59: rgba(0,0,0,0.34902);
 }
 .dark {
-  --color-primary: #0da5be;
+  /* --color-primary: #0da5be; */
   --bg-primary: #1F1F2C;
   --bg-secondary: #14141F;
   --bg-light: #343444;
