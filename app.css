@@ -7365,17 +7365,17 @@ input[type=radio].sr-only:checked ~ div.product-card-content-media-promotional-t
 .dark *.product-card-content-meta-pricing-current-not-discounted{--tw-text-opacity:1;color:rgba(255, 255, 255, 1);color:rgba(255, 255, 255, var(--tw-text-opacity, 1))}
 @media (min-width: 768px){
 .product-card-content-meta-pricing-current-not-discounted{font-size:22px}}
-.product-card-content-meta-pricing-current-discounted{font-size:14px;font-weight:600;--tw-text-opacity:1;color:rgba(224, 36, 36, 1);color:rgba(224, 36, 36, var(--tw-text-opacity, 1))}
+.product-card-content-meta-pricing-current-discounted{font-size:14px;font-weight:600;--tw-text-opacity:1 }
 @media (min-width: 768px){
 .product-card-content-meta-pricing-current-discounted{font-size:22px}}
-.product-card-content-meta-pricing-current-discounted-percentage{border-radius:0.375rem;border-width:1px;border-color:#414042;border-color:var(--color-primary);padding-left:0.5rem;padding-right:0.5rem;font-size:12px;color:#414042;color:var(--color-primary)}
+.product-card-content-meta-pricing-current-discounted-percentage{border-radius:0.375rem;border-width:1px;padding-left:0.5rem;padding-right:0.5rem;font-size:12px}
 @media (min-width: 768px){
 .product-card-content-meta-pricing-current-discounted-percentage{font-size:18px}}
 .product-card-content-meta-pricing-current-discounted-meta{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between}
-.product-card-content-meta-pricing-current-discounted-meta-regular{font-size:0.875rem;line-height:1.25rem;--tw-text-opacity:1;color:rgba(122, 121, 138, 1);color:rgba(122, 121, 138, var(--tw-text-opacity, 1));text-decoration-line:line-through}
+.product-card-content-meta-pricing-current-discounted-meta-regular{font-size:0.875rem;line-height:1.25rem;--tw-text-opacity:1;text-decoration-line:line-through}
 @media (min-width: 768px){
 .product-card-content-meta-pricing-current-discounted-meta-regular{font-size:16px}}
-.product-card-content-meta-pricing-current-discounted-meta-value{font-size:0.875rem;line-height:1.25rem;--tw-text-opacity:1;color:rgba(132, 225, 188, 1);color:rgba(132, 225, 188, var(--tw-text-opacity, 1))}
+.product-card-content-meta-pricing-current-discounted-meta-value{font-size:0.875rem;line-height:1.25rem;--tw-text-opacity:1}
 @media (min-width: 768px){
 .product-card-content-meta-pricing-current-discounted-meta-value{font-size:16px}}
 .product-card-actions{margin-left:0.125rem;margin-right:0.125rem;margin-top:0.25rem;margin-bottom:0.25rem;display:flex;height:-moz-fit-content;height:fit-content;align-items:center;justify-content:space-between;gap:0.5rem}
